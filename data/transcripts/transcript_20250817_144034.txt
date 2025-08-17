@@ -1,0 +1,25 @@
+LunarTech Interview - 2025-08-17 14:40:43
+
+Q1: Please tell me your full name and a bit about your background.
+A1 [14:41:20]: Kn. s can
+
+Q2: Why are you interested in joining LunarTech?
+A2 [14:41:35]: to polish my skills
+
+Q3: Could you describe your experience in Data Science and AI?
+A3 [14:41:50]: barely any
+
+Clarification: I want to make sure I capture your response accurately. Could you tell me a bit more about that?
+Clarified A3 [14:42:14]: i have barely any experience
+
+Q4: What are your goals for the next two years?
+A4 [14:42:29]: a i engineer
+
+Q5: How ready do you feel to join our intensive program?
+A5 [14:42:44]: very ready
+
+Clarification: I want to make sure I capture your response accurately. Could you tell me a bit more about that?
+Clarified A5 [14:43:01]: i'm very needy
+
+Agent: Thank you for your responses. Do you have any questions for me about LunarTech or the program?
+Agent: Great! That concludes our interview. Thank you for your time.

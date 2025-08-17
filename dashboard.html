@@ -1,0 +1,143 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>LunarTech Interview Dashboard</title>
+            <style>
+                body {
+                    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                    margin: 0;
+                    padding: 20px;
+                    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+                    color: white;
+                }
+                .container {
+                    max-width: 1200px;
+                    margin: 0 auto;
+                }
+                .header {
+                    text-align: center;
+                    margin-bottom: 40px;
+                }
+                .stats-grid {
+                    display: grid;
+                    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+                    gap: 20px;
+                    margin-bottom: 40px;
+                }
+                .stat-card {
+                    background: rgba(255, 255, 255, 0.1);
+                    padding: 30px;
+                    border-radius: 15px;
+                    text-align: center;
+                    backdrop-filter: blur(10px);
+                    border: 1px solid rgba(255, 255, 255, 0.2);
+                }
+                .stat-number {
+                    font-size: 3em;
+                    font-weight: bold;
+                    margin-bottom: 10px;
+                }
+                .stat-label {
+                    font-size: 1.2em;
+                    opacity: 0.9;
+                }
+                .interest-chart {
+                    background: rgba(255, 255, 255, 0.1);
+                    padding: 30px;
+                    border-radius: 15px;
+                    backdrop-filter: blur(10px);
+                    border: 1px solid rgba(255, 255, 255, 0.2);
+                }
+                .bar {
+                    display: flex;
+                    align-items: center;
+                    margin: 15px 0;
+                }
+                .bar-label {
+                    width: 80px;
+                    text-transform: capitalize;
+                }
+                .bar-fill {
+                    height: 25px;
+                    background: rgba(255, 255, 255, 0.3);
+                    border-radius: 12px;
+                    margin: 0 15px;
+                    flex: 1;
+                    position: relative;
+                }
+                .bar-progress {
+                    height: 100%;
+                    border-radius: 12px;
+                    transition: width 0.5s ease;
+                }
+                .high { background: #4CAF50; }
+                .medium { background: #FF9800; }
+                .low { background: #F44336; }
+                .timestamp {
+                    text-align: center;
+                    margin-top: 40px;
+                    opacity: 0.7;
+                }
+            </style>
+        </head>
+        <body>
+            <div class="container">
+                <div class="header">
+                    <h1>🚀 LunarTech Interview Dashboard</h1>
+                    <p>Real-time interview analytics and candidate insights</p>
+                </div>
+                
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-number">6</div>
+                        <div class="stat-label">Total Interviews</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">3</div>
+                        <div class="stat-label">Today's Interviews</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">Medium</div>
+                        <div class="stat-label">Average Interest</div>
+                    </div>
+                </div>
+                
+                <div class="interest-chart">
+                    <h2>Interest Level Distribution</h2>
+        
+                    <div class="bar">
+                        <div class="bar-label">High</div>
+                        <div class="bar-fill">
+                            <div class="bar-progress high" style="width: 16.666666666666664%"></div>
+                        </div>
+                        <div>1 (16.7%)</div>
+                    </div>
+                    
+                    <div class="bar">
+                        <div class="bar-label">Medium</div>
+                        <div class="bar-fill">
+                            <div class="bar-progress medium" style="width: 83.33333333333334%"></div>
+                        </div>
+                        <div>5 (83.3%)</div>
+                    </div>
+                    
+                    <div class="bar">
+                        <div class="bar-label">Low</div>
+                        <div class="bar-fill">
+                            <div class="bar-progress low" style="width: 0.0%"></div>
+                        </div>
+                        <div>0 (0.0%)</div>
+                    </div>
+                    
+                </div>
+                
+                <div class="timestamp">
+                    Last updated: 2025-08-17 14:43:24
+                </div>
+            </div>
+        </body>
+        </html>
+        

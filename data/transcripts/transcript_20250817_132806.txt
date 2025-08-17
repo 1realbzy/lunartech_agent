@@ -1,0 +1,36 @@
+LunarTech Interview - 2025-08-17 13:28:15
+
+Q1: Please tell me your full name and a bit about your background.
+A1 [13:28:55]: i'm
+
+Clarification: I want to make sure I capture your response accurately. Could you tell me a bit more about that?
+Clarified A1 [13:29:15]: my name is steven steven with a be
+
+Q2: Why are you interested in joining LunarTech?
+A2 [13:29:33]: to better polish my skills
+
+Q3: Could you describe your experience in Data Science and AI?
+A3 [13:29:52]: wonderful
+
+Clarification: I want to make sure I capture your response accurately. Could you tell me a bit more about that?
+Clarified A3 [13:30:13]: leeds alabama
+
+Q4: What are your goals for the next two years?
+A4 [13:30:32]: to become an e i engineer
+
+Q5: How ready do you feel to join our intensive program?
+A5 [13:30:44]: you ready
+
+Clarification: I want to make sure I capture your response accurately. Could you tell me a bit more about that?
+Clarified A5 [13:31:05]: i am very ready
+
+Agent: Thank you for your responses. Do you have any questions for me about LunarTech or the program?
+Candidate [13:31:24]: in is the program beginning
+Agent: I don't have specific information on that, but I'll make note of your question for the team.
+
+Agent: Do you have any other questions?
+Candidate [13:31:47]: is the program intensive
+Agent: I don't have specific information on that, but I'll make note of your question for the team.
+
+Agent: Do you have any other questions?
+Agent: Great! That concludes our interview. Thank you for your time.
