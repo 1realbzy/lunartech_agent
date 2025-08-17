@@ -27,7 +27,7 @@ QUESTIONS = [
     "Why are you interested in joining LunarTech?",
     "Could you describe your experience in Data Science and AI?",
     "What are your goals for the next two years?",
-    "How ready do you feel to join our intensive program?"
+    "Are you ready to start immediately? If not, when?"
 ]
 
 # File Paths
