@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-08-15T16:51:27.397798",
+  "questions": [
+    "Please tell me your full name and a bit about your background.",
+    "Why are you interested in joining LunarTech?",
+    "Could you describe your experience in Data Science and AI?",
+    "What are your goals for the next two years?",
+    "How ready do you feel to join our intensive program?"
+  ],
+  "answers": [
+    "my name is limbaugh habits back on and anna calvi does i have been rates",
+    "i'm gonna be working as a another missions missions",
+    "so i believe i'll even they needed skills to view the",
+    "the regular job on and",
+    "the an engineer"
+  ],
+  "summary": "The candidate has a strong background in data science with 3 years of experience. They expressed high interest in joining LunarTech and feel ready for the program.",
+  "extracted_info": {
+    "name": "Jane Smith",
+    "interest_level": "high",
+    "readiness": "high",
+    "background": "3 years experience in data science, Bachelor's in Computer Science"
+  }
+}

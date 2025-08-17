@@ -1,0 +1,35 @@
+LunarTech Interview - 2025-08-16 10:05:32
+
+Q1: Please tell me your full name and a bit about your background.
+A1 [10:06:12]: Berc. he needs his habits
+
+Clarification: I'm sorry, I didn't quite get that. Could you please rephrase your answer to: Please tell me your full name and a bit about your background.
+Clarified A1 [10:06:41]: i'm a computer science gonna eat
+
+Q2: Why are you interested in joining LunarTech?
+A2 [10:06:51]: to better my skills
+
+Clarification: I'm sorry, I didn't quite get that. Could you please rephrase your answer to: Why are you interested in joining LunarTech?
+Clarified A2 [10:07:10]: i want to bet on my skills
+
+Q3: Could you describe your experience in Data Science and AI?
+A3 [10:07:23]: i am an intermediate yeah developer
+
+Q4: What are your goals for the next two years?
+A4 [10:07:33]: should be thumb on engineer
+
+Clarification: I'm sorry, I didn't quite get that. Could you please rephrase your answer to: What are your goals for the next two years?
+Clarified A4 [10:07:48]: come and a i engineer
+
+Q5: How ready do you feel to join our intensive program?
+A5 [10:08:09]: i'm very ready
+
+Clarification: I'm sorry, I didn't quite get that. Could you please rephrase your answer to: How ready do you feel to join our intensive program?
+Clarified A5 [10:08:25]: i am very ready
+
+Agent: Thank you for your responses. Do you have any questions for me about LunarTech or the program?
+Candidate [10:08:37]: when do i start
+Agent: I don't have specific information on that, but I'll make note of your question for the team.
+
+Agent: Do you have any other questions?
+Agent: Great! That concludes our interview. Thank you for your time.

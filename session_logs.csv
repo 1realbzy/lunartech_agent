@@ -1,0 +1,30 @@
+2025-08-17 13:28:05,011 - __main__ - INFO - Vosk-only speech recognition initialized successfully.
+2025-08-17 13:28:05,191 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\1realbzy\\Downloads\\Lunartech_agent\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-17 13:28:05,191 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\1realbzy\Downloads\Lunartech_agent\venv\Lib\site-packages\comtypes\gen'
+2025-08-17 13:28:06,274 - __main__ - INFO - Text-to-speech initialized successfully.
+2025-08-17 13:28:06,274 - __main__ - INFO - Enhanced LLM initialized successfully
+2025-08-17 13:28:06,290 - __main__ - INFO - FAQ data loaded successfully.
+2025-08-17 13:32:24,331 - __main__ - INFO - Interview data saved to database with ID: 20250817_132806
+2025-08-17 13:32:24,331 - __main__ - INFO - Interview completed and saved with timestamp 20250817_132806
+2025-08-17 14:03:55,945 - __main__ - INFO - Vosk-only speech recognition initialized successfully.
+2025-08-17 14:03:56,073 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\1realbzy\\Downloads\\Lunartech_agent\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-17 14:03:56,075 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\1realbzy\Downloads\Lunartech_agent\venv\Lib\site-packages\comtypes\gen'
+2025-08-17 14:03:56,594 - __main__ - INFO - Text-to-speech initialized successfully.
+2025-08-17 14:03:56,594 - __main__ - INFO - Enhanced LLM initialized successfully
+2025-08-17 14:03:56,594 - __main__ - INFO - FAQ data loaded successfully.
+2025-08-17 14:36:34,114 - __main__ - INFO - Vosk-only speech recognition initialized successfully.
+2025-08-17 14:36:34,666 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\1realbzy\\Downloads\\Lunartech_agent\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-17 14:36:34,667 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\1realbzy\Downloads\Lunartech_agent\venv\Lib\site-packages\comtypes\gen'
+2025-08-17 14:36:35,371 - __main__ - INFO - Text-to-speech initialized successfully.
+2025-08-17 14:36:35,372 - __main__ - INFO - Enhanced LLM initialized successfully
+2025-08-17 14:36:35,391 - __main__ - INFO - FAQ data loaded successfully.
+2025-08-17 14:40:32,519 - __main__ - INFO - Interview data saved to database with ID: 20250817_143635
+2025-08-17 14:40:32,519 - __main__ - INFO - Interview completed and saved with timestamp 20250817_143635
+2025-08-17 14:40:34,369 - __main__ - INFO - Vosk-only speech recognition initialized successfully.
+2025-08-17 14:40:34,424 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\1realbzy\\Downloads\\Lunartech_agent\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-17 14:40:34,425 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\1realbzy\Downloads\Lunartech_agent\venv\Lib\site-packages\comtypes\gen'
+2025-08-17 14:40:34,641 - __main__ - INFO - Text-to-speech initialized successfully.
+2025-08-17 14:40:34,642 - __main__ - INFO - Enhanced LLM initialized successfully
+2025-08-17 14:40:34,643 - __main__ - INFO - FAQ data loaded successfully.
+2025-08-17 14:43:24,266 - __main__ - INFO - Interview data saved to database with ID: 20250817_144034
+2025-08-17 14:43:24,267 - __main__ - INFO - Interview completed and saved with timestamp 20250817_144034

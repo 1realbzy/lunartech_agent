@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-08-17T14:36:35.392824",
+  "questions": [
+    "Please tell me your full name and a bit about your background.",
+    "Why are you interested in joining LunarTech?",
+    "Could you describe your experience in Data Science and AI?",
+    "What are your goals for the next two years?",
+    "How ready do you feel to join our intensive program?"
+  ],
+  "answers": [
+    "Hen. h e r v e r",
+    "the polish my skills",
+    "i'm i'm into mediate",
+    "he i engineer",
+    "very ready"
+  ],
+  "summary": "Interview Summary:\n\nThe candidate participated in a comprehensive interview covering their background, motivations, experience, and readiness for the LunarTech program. They appear ready and committed to undertaking the intensive program.",
+  "extracted_info": {
+    "name": "Hen",
+    "interest_level": "medium",
+    "readiness": "high",
+    "background": "Entry-level candidate"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "faqs": [
+    {
+      "question": "What is the cost of the program?",
+      "answer": "The LunarTech program is completely free of charge. We believe in removing financial barriers to education in data science and AI."
+    },
+    {
+      "question": "What are the requirements to apply?",
+      "answer": "To apply for the LunarTech program, you need to have a strong interest in Data Science and AI, and be ready to commit to our full-time intensive program. Basic programming knowledge is recommended but not required, as we have preparatory materials for beginners."
+    },
+    {
+      "question": "What is the schedule of the program?",
+      "answer": "The program is a full-time commitment, with classes and projects from Monday to Friday, 9am to 5pm. The total duration is 12 weeks, with optional weekend workshops and hackathons."
+    },
+    {
+      "question": "Do I need to have a computer?",
+      "answer": "Yes, you need to have your own laptop with at least 8GB of RAM. We recommend 16GB for the best experience, especially when working with larger datasets and models."
+    },
+    {
+      "question": "Will I get a certificate after completing the program?",
+      "answer": "Yes, upon successful completion of the program, you will receive a LunarTech certification. Additionally, you'll have a portfolio of projects that demonstrate your skills to potential employers."
+    },
+    {
+      "question": "Is the program online or in-person?",
+      "answer": "The program is primarily in-person at our main campus, but we do offer some hybrid options for certain modules. The hands-on collaborative nature of our program makes in-person attendance highly valuable."
+    },
+    {
+      "question": "Do you help with job placement?",
+      "answer": "Yes, we have a dedicated career services team that helps with resume building, interview preparation, and connecting graduates with our industry partners. Our job placement rate for graduates is currently 85% within three months of program completion."
+    }
+  ]
+}
