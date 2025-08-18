@@ -239,29 +239,17 @@ class InterviewAgent:
         self.candidate_name = "Candidate"
         
     def initialize_speech_recognition(self):
-        """Initialize hybrid speech recognition (Whisper + Vosk fallback)."""
+        """Initialize speech recognition with Vosk."""
         try:
-            # Try to use Whisper for better accent recognition
-            try:
-                from whisper_integration import HybridSpeechEngine
-                
-                print("🚀 Initializing Whisper for enhanced accent recognition...")
-                self.speech_engine = HybridSpeechEngine(
-                    whisper_model="base",  # 142 MB, excellent for Ghanaian English
-                    prefer_whisper=True
-                )
-                self.use_hybrid_engine = True
-                logger.info("Hybrid speech recognition (Whisper+Vosk) initialized successfully.")
-                print("🎉 Enhanced speech recognition ready - Whisper primary, Vosk fallback")
-                
-            except ImportError:
-                print("⚠️  Whisper not available, using Vosk only")
-                self._initialize_vosk_only()
+            print("🚀 Initializing speech recognition with Vosk...")
+            self._initialize_vosk_only()
+            logger.info("Speech recognition initialized successfully.")
+            print("🎉 Speech recognition ready")
                 
         except Exception as e:
             logger.error(f"Failed to initialize speech recognition: {e}")
-            print("❌ Falling back to Vosk-only mode")
-            self._initialize_vosk_only()
+            print("❌ Speech recognition initialization failed")
+            sys.exit(1)
     
     def _initialize_vosk_only(self):
         """Initialize Vosk-only speech recognition (fallback)."""
