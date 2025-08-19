@@ -209,26 +209,27 @@ self.llm = GPT4All(model_path)
 
 ### Current Technical Constraints
 
-**1. Accent Recognition Optimization**
-- While Whisper handles diverse English accents well, occasional transcription gaps occur with specific Ghanaian English pronunciations
-- Certain word pronunciations and speech patterns still require clarification requests
-- Impact: 5-10% of responses may need user repetition for optimal transcription
+Known Limitations & Future Improvements
 
-**2. Model Resource Allocation**
-- Currently using Whisper "base" (142MB) for optimal performance on 16GB RAM systems
-- Could utilize Whisper "large" (1.5GB) but chose current model for:
-  - Faster processing times (2-3x speed improvement)
-  - Lower memory footprint allowing concurrent system processes
-  - Better deployment compatibility across various hardware configurations
+Practical Constraints Encountered During Development
 
-**3. Single-Session Architecture**
-- Designed for sequential interviews rather than concurrent processing
-- Current threading model optimizes for individual interview quality over parallel processing
+Accent Recognition: Whisper works well, but Ghanaian English pronunciations sometimes required repetition (≈5–10% cases). This highlights the importance of building systems inclusive of diverse English accents.
 
-**4. Vocabulary Specialization**
-- General-purpose English models without fine-tuning for AI/Data Science terminology
-- Technical terms occasionally require phonetic clarification
+Resource Allocation: Chose Whisper “base” for speed and compatibility on 16GB RAM systems; Whisper “large” would offer higher accuracy but with slower performance.
 
+Single-Session Architecture: Optimized for one interview at a time; would need redesign for concurrent sessions.
+
+Vocabulary Specialization: LLM occasionally struggled with niche AI/Data Science terminology without fine-tuning.
+
+Strategic Limitations & Roadmap for Scaling
+
+LLM Reasoning Power: Current model handles conversational flow well, but is less capable than enterprise-grade GPT-4 for nuanced reasoning.
+
+Scalability: Current setup works for single sessions but would require load balancing and database optimizations for hundreds of concurrent interviews.
+
+Integration: Future work could integrate with LunarTech CRM systems, add API endpoints, and provide real-time dashboards for admissions staff.
+
+Enhancements: Multilingual support, sentiment analysis, and adaptive scheduling integration could further increase business value.
 ### Advanced Features Already Implemented
 - ✅ **Real-time confidence scoring** with automatic quality assessment of transcriptions
 - ✅ **Intelligent failover system** (Whisper primary → Vosk backup for 100% uptime)
